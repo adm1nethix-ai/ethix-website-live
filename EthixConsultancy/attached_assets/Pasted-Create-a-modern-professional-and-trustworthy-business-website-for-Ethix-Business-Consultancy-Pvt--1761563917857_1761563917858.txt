@@ -1,0 +1,54 @@
+Create a modern, professional, and trustworthy business website for Ethix Business Consultancy Pvt. Ltd.
+
+About the company:
+Ethix Business Consultancy Pvt. Ltd. is a professional consultancy firm that helps Indian startups and MSMEs get access to government funding, loans, grants, startup registrations, and certifications such as Udyam, DPIIT, and Tax Exemption Certificates.
+
+The company also assists with documentation, funding applications, project reports, business plans, and compliance consulting to help clients grow with the right government schemes.
+
+Target Audience: Startup founders, MSMEs, small business owners, and entrepreneurs looking for funding or registration help.
+
+Design Preferences:
+
+Corporate, elegant, and premium look
+
+Color palette inspired by the Ethix logo (use the same tones as the company’s existing branding — maroon, gold, white, and light turquoise blue)
+
+Clean, minimal, and trustworthy design
+
+Smooth scroll animations, light transitions, and subtle shadows for professionalism
+
+Website Structure:
+
+Home Page – Hero section with company tagline and a strong call-to-action (“Get Funding Assistance” or “Consult Now”). Include short intro about Ethix and highlight major services.
+
+About Us – Company story, mission, vision, and leadership team details.
+
+Services Page – Detailed sections for:
+
+Government Funding & Schemes Assistance (Hackathon 5.0, Mudra Yojana, CGTMSE, etc.)
+
+Startup Certifications (Udyam, DPIIT, Tax Exemption, etc.)
+
+Loan & Grant Consultancy
+
+Documentation & Application Support
+
+Success Stories / Clients Page – Showcase testimonials, case studies, or logos of clients helped.
+
+Contact Page – Professional contact form, WhatsApp chat button, email, and office address.
+
+Footer – Include quick links, social media icons, and copyright info.
+
+Extra Features:
+
+Mobile-friendly responsive design
+
+Interactive “Get Consultation” button (floating on all pages)
+
+WhatsApp integration for instant contact
+
+Optional blog section for government scheme updates
+
+Tone: Professional, transparent, and approachable — should build trust and authority as a reliable consultancy partner.
+
+Deliver output: A full responsive website with clean HTML, CSS, and JavaScript (or React) code, ready for deployment.
